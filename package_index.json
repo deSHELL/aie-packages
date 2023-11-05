@@ -1,0 +1,10 @@
+{
+    "packages": {
+        "package1": {
+            "equations": ["equation1.ath", "equation2.ath"]
+        },
+        "package2": {
+            "equations": ["equation1.ath", "equation2.ath"]
+        }
+    }
+}
